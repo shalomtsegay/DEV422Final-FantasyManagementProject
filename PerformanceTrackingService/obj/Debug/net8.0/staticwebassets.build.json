@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3VHz11V4AkrDAlBxzzmM+iuNcetIbOHhNkzKlnZy/J4=",
+  "Source": "PerformanceTrackingService",
+  "BasePath": "_content/PerformanceTrackingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PerformanceTrackingService\\wwwroot",
+      "Source": "PerformanceTrackingService",
+      "ContentRoot": "C:\\Users\\Rvpha\\Desktop\\WORKING FINAL\\PerformanceTrackingService\\PerformanceTrackingService\\wwwroot\\",
+      "BasePath": "_content/PerformanceTrackingService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rvpha\\Desktop\\WORKING FINAL\\PerformanceTrackingService\\PerformanceTrackingService\\wwwroot\\index.html",
+      "SourceId": "PerformanceTrackingService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rvpha\\Desktop\\WORKING FINAL\\PerformanceTrackingService\\PerformanceTrackingService\\wwwroot\\",
+      "BasePath": "_content/PerformanceTrackingService",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
